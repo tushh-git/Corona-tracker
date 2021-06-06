@@ -1,0 +1,14 @@
+body {
+    font-family: "Baloo Thambi 2", cursive;
+}
+.text-danger{
+    padding-left: 10px;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
